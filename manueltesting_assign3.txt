@@ -1,0 +1,13 @@
+Explain in detail about Agile Methodology
+Agile methodology is an iterative and flexible approach to software development that focuses on delivering small, usable parts of a product in short cycles called iterations or sprints. Instead of planning everything upfront like traditional Waterfall models, Agile encourages teams to adapt continuously as requirements evolve. The core idea is to prioritize customer collaboration, working software, and responsiveness to change, ensuring that the final product aligns closely with user needs.
+
+At the heart of Agile is the Agile Manifesto, which emphasizes four key values: individuals and interactions, working software, customer collaboration, and responding to change. Agile teams are typically cross‑functional, meaning developers, testers, designers, and product owners work together throughout the project. They follow practices like daily stand‑ups, sprint planning, reviews, and retrospectives to maintain transparency and continuous improvement. This structure helps teams identify issues early, adjust priorities, and deliver value faster.
+
+Agile is widely used because it reduces risk, improves product quality, and increases customer satisfaction. By delivering features in small increments, teams can gather feedback quickly and make necessary changes without major rework. It suits dynamic environments where requirements frequently change, such as mobile app development, web applications, and startup projects. Overall, Agile creates a collaborative, adaptive, and efficient workflow that keeps teams aligned and customers engaged.
+
+Explain about Monitoring Activity
+Monitoring activity simply means tracking work or performance regularly to ensure everything is happening as planned. It helps you identify issues early, measure progress, and make improvements before problems grow bigger. In any project or process, monitoring ensures that goals, timelines, and quality standards are being met.
+
+It usually involves observing, collecting data, and evaluating results. For example, a manager might monitor team productivity, a system admin might monitor server performance, or a project lead might monitor task completion. By reviewing this information, you can decide whether things are on track or if corrective actions are needed.
+
+Overall, monitoring activity is a continuous, proactive process that keeps work aligned with expectations, improves decision‑making, and ensures smooth, efficient performance across tasks or systems.
